@@ -1,6 +1,6 @@
 {
   "name": "@jialecheng/heller",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Says heller from the console",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "author": "Cheng Jiale",
   "license": "ISC",
-  "keywords": ["tiny", "experiment", "heller"],
+  "keywords": [
+    "tiny",
+    "experiment",
+    "heller"
+  ],
   "repository": "alexcheng94/heller"
 }
