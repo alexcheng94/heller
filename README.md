@@ -16,6 +16,5 @@ npm i @jialecheng/heller
 ```js
 const heller = require("...");
 
-heller();
-//=> console logs "Heller Werld"
+heller(); //=> console logs "Heller Werld"
 ```
