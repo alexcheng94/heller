@@ -1,11 +1,13 @@
 {
   "name": "@jialecheng/heller",
   "version": "1.0.0",
-  "description": "",
+  "description": "Says heller from the console",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Cheng Jiale",
+  "license": "ISC",
+  "keywords": ["tiny", "experiment", "heller"],
+  "repository": "alexcheng94/heller"
 }
